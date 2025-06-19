@@ -1,0 +1,46 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Fri May  9 06:58:26 2025
+# Process ID: 43476
+# Current directory: C:/Users/jacka/finalproj/finalproj_try2
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent103496 C:\Users\jacka\finalproj\finalproj_try2\finalproj_try1.xpr
+# Log file: C:/Users/jacka/finalproj/finalproj_try2/vivado.log
+# Journal file: C:/Users/jacka/finalproj/finalproj_try2\vivado.jou
+# Running On: jasper, OS: Windows, CPU Frequency: 2995 MHz, CPU Physical cores: 14, Host memory: 68374 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/jacka/finalproj/finalproj_try2/finalproj_try1.xpr
+update_compile_order -fileset sources_1
+reset_run synth_1
+reset_run background_rom_synth_1
+reset_run ducks_rom_synth_1
+reset_run dog_rom_synth_1
+reset_run title_rom_synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 20
+close_project
+open_project C:/Users/jacka/finalproj_try1/finalproj_try1.xpr
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 20
+wait_on_run impl_1
+write_hw_platform -fixed -include_bit -force -file C:/Users/jacka/finalproj_try1/mb_usb_hdmi_top.xsa
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 20
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 20
+wait_on_run impl_1
+write_hw_platform -fixed -include_bit -force -file C:/Users/jacka/finalproj_try1/mb_usb_hdmi_top.xsa
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 20
+wait_on_run impl_1
+reset_run synth_1
+launch_runs impl_1 -to_step write_bitstream -jobs 20
+wait_on_run impl_1
+write_hw_platform -fixed -include_bit -force -file C:/Users/jacka/finalproj_try1/mb_usb_hdmi_top.xsa

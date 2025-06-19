@@ -1,0 +1,57 @@
+timestamp=[2025-04-11 05:03:54], mode=WORKBENCH_START, duration=0:00:06.193, duration_ms=6193, data={}
+timestamp=[2025-04-11 05:03:55], mode=WORKBENCH_UI_INIT, duration=0:00:00.412, duration_ms=412, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2025-04-11 05:03:56], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.122, duration_ms=122, data={}
+timestamp=[2025-04-11 05:05:16], mode=APP_CREATION, duration=0:00:04.769, duration_ms=4769, data={name=helpplease, project_type=sdk, os=standalone, processor=microblaze, runtime=cpp, platform=mb_usb_hdmi_top, application_type=application}
+timestamp=[2025-04-11 05:06:53], mode=PLATFORM_GENERATION, duration=0:00:03.580, duration_ms=3580, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:07:03], mode=PLATFORM_GENERATION, duration=0:00:09.192, duration_ms=9192, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:07:05], mode=BUILD, duration=0:00:02.037, duration_ms=2037, data={name=helpplease, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 05:07:05], mode=BUILD, duration=0:00:00.266, duration_ms=266, data={name=helpplease_system, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 05:11:10], mode=BUILD, duration=0:00:00.361, duration_ms=361, data={name=helpplease, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 05:11:11], mode=BUILD, duration=0:00:00.530, duration_ms=530, data={name=helpplease_system, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 05:11:16], mode=PLATFORM_GENERATION, duration=0:00:04.919, duration_ms=4919, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:11:23], mode=PLATFORM_GENERATION, duration=0:00:07.374, duration_ms=7374, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:11:24], mode=BUILD, duration=0:00:00.444, duration_ms=444, data={name=helpplease, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 05:12:17], mode=BUILD, duration=0:00:00.597, duration_ms=597, data={name=helpplease, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 05:12:20], mode=BUILD, duration=0:00:00.413, duration_ms=413, data={name=helpplease, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 05:12:20], mode=BUILD, duration=0:00:00.283, duration_ms=283, data={name=helpplease_system, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 05:12:24], mode=PLATFORM_GENERATION, duration=0:00:04.342, duration_ms=4342, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:12:31], mode=PLATFORM_GENERATION, duration=0:00:07.000, duration_ms=7000, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:12:32], mode=BUILD, duration=0:00:00.468, duration_ms=468, data={name=helpplease, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 05:14:00], mode=BUILD, duration=0:00:00.276, duration_ms=276, data={name=helpplease, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 05:14:01], mode=BUILD, duration=0:00:00.369, duration_ms=369, data={name=helpplease_system, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 05:14:05], mode=PLATFORM_GENERATION, duration=0:00:04.156, duration_ms=4156, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:14:12], mode=PLATFORM_GENERATION, duration=0:00:06.536, duration_ms=6536, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:14:12], mode=BUILD, duration=0:00:00.641, duration_ms=641, data={name=helpplease, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 05:17:29], mode=BUILD, duration=0:00:00.472, duration_ms=472, data={name=helpplease, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 05:17:30], mode=BUILD, duration=0:00:00.248, duration_ms=248, data={name=helpplease_system, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 05:17:35], mode=PLATFORM_GENERATION, duration=0:00:05.068, duration_ms=5068, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:17:43], mode=PLATFORM_GENERATION, duration=0:00:07.832, duration_ms=7832, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:17:45], mode=BUILD, duration=0:00:02.484, duration_ms=2484, data={name=helpplease, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 05:17:46], mode=BUILD, duration=0:00:00.302, duration_ms=302, data={name=helpplease_system, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 05:42:42], mode=BUILD, duration=0:00:00.220, duration_ms=220, data={name=helpplease, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 05:42:42], mode=BUILD, duration=0:00:00.199, duration_ms=199, data={name=helpplease_system, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 05:42:47], mode=PLATFORM_GENERATION, duration=0:00:04.660, duration_ms=4660, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:42:59], mode=PLATFORM_GENERATION, duration=0:00:11.675, duration_ms=11675, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:43:01], mode=BUILD, duration=0:00:02.352, duration_ms=2352, data={name=helpplease, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 05:43:02], mode=BUILD, duration=0:00:00.218, duration_ms=218, data={name=helpplease_system, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 05:44:41], mode=BUILD, duration=0:00:00.314, duration_ms=314, data={name=helpplease, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 05:44:42], mode=BUILD, duration=0:00:00.281, duration_ms=281, data={name=helpplease_system, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 05:44:46], mode=PLATFORM_GENERATION, duration=0:00:04.060, duration_ms=4060, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:44:57], mode=PLATFORM_GENERATION, duration=0:00:10.618, duration_ms=10618, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:44:59], mode=BUILD, duration=0:00:02.300, duration_ms=2300, data={name=helpplease, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 05:45:00], mode=BUILD, duration=0:00:00.211, duration_ms=211, data={name=helpplease_system, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 05:55:27], mode=BUILD, duration=0:00:00.275, duration_ms=275, data={name=helpplease, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 05:55:27], mode=BUILD, duration=0:00:00.213, duration_ms=213, data={name=helpplease_system, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 05:55:31], mode=PLATFORM_GENERATION, duration=0:00:04.292, duration_ms=4292, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:55:42], mode=PLATFORM_GENERATION, duration=0:00:10.691, duration_ms=10691, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 05:55:45], mode=BUILD, duration=0:00:02.293, duration_ms=2293, data={name=helpplease, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 05:55:46], mode=BUILD, duration=0:00:00.238, duration_ms=238, data={name=helpplease_system, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 12:41:29], mode=WORKBENCH_START, duration=0:00:13.943, duration_ms=13943, data={}
+timestamp=[2025-04-11 12:41:30], mode=WORKBENCH_UI_INIT, duration=0:00:00.793, duration_ms=793, data={editors_count=5, platform_editors_count=0, projects_count=4, platform_projects_count=1, active_platform_editor=false, projects=RemoteSystemsTempFiles,helpplease,helpplease_system,mb_usb_hdmi_top}
+timestamp=[2025-04-11 12:41:31], mode=PLATFORM_REPOSITORY_INIT, duration=0:00:00.046, duration_ms=46, data={}
+timestamp=[2025-04-11 12:42:39], mode=BUILD, duration=0:00:00.272, duration_ms=272, data={name=helpplease, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 12:42:39], mode=BUILD, duration=0:00:00.211, duration_ms=211, data={name=helpplease_system, configuration=Debug, clean_build=true}
+timestamp=[2025-04-11 12:42:43], mode=PLATFORM_GENERATION, duration=0:00:03.766, duration_ms=3766, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 12:42:55], mode=PLATFORM_GENERATION, duration=0:00:11.082, duration_ms=11082, data={name=mb_usb_hdmi_top}
+timestamp=[2025-04-11 12:42:57], mode=BUILD, duration=0:00:02.361, duration_ms=2361, data={name=helpplease, configuration=Debug, clean_build=false}
+timestamp=[2025-04-11 12:42:58], mode=BUILD, duration=0:00:00.203, duration_ms=203, data={name=helpplease_system, configuration=Debug, clean_build=false}

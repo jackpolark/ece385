@@ -1,0 +1,2 @@
+duckhunt_bg_gamea_320_240_rom.v,verilog,xil_defaultlib,../../../../finalproj_try1.gen/sources_1/ip/duckhunt_bg_gamea_320_240_rom/sim/duckhunt_bg_gamea_320_240_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

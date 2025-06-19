@@ -1,0 +1,13 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/jacka/lab4retry/lab4retry.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/jacka/lab4retry/lab4retry.srcs/sim_1/new/testbench_mult.sv,1741060482,systemVerilog,,,,testbench,,uvm,,,,,,
+C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/Control.sv,1740128183,systemVerilog,C:/Users/jacka/lab4retry/lab4retry.srcs/sim_1/new/testbench_mult.sv;C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/HexDriver.sv;C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/Reg_8.sv;C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/multiplier_toplevel.sv;C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/reg_x.sv;C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/ripple_adder.sv;C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/sync_debounce.sv,C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/HexDriver.sv,,$unit_Control_sv_36418019;control,,uvm,,,,,,
+C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/HexDriver.sv,1740128254,systemVerilog,,C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/Reg_8.sv,,HexDriver,,uvm,,,,,,
+C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/Reg_8.sv,1740128203,systemVerilog,,C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/multiplier_toplevel.sv,,reg_8,,uvm,,,,,,
+C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/multiplier_toplevel.sv,1740128194,systemVerilog,,C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/reg_x.sv,,multiplier_toplevel,,uvm,,,,,,
+C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/reg_x.sv,1740128215,systemVerilog,,C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/ripple_adder.sv,,reg_1,,uvm,,,,,,
+C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/ripple_adder.sv,1740128225,systemVerilog,,C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/sync_debounce.sv,,ADD_SUB9;full_adder,,uvm,,,,,,
+C:/Users/jacka/lab4retry/lab4retry.srcs/sources_1/new/sync_debounce.sv,1740128256,systemVerilog,,C:/Users/jacka/lab4retry/lab4retry.srcs/sim_1/new/testbench_mult.sv,,sync_debounce,,uvm,,,,,,

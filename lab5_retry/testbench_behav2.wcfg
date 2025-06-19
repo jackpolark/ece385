@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="SLC3_TYPES" />
+            <top_module name="\$unit_addr2_mux_sv_683635937 " />
+            <top_module name="glbl" />
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="275.100001 us"></ZoomEndTime>
+      <Cursor1Time time="138.739193 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="73"></NameColumnWidth>
+      <ValueColumnWidth column_width="68"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/testbench/processor/slc3/cpu/ben" type="logic">
+      <obj_property name="ElementShortName">ben</obj_property>
+      <obj_property name="ObjectShortName">ben</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/processor/slc3/cpu/ir" type="array">
+      <obj_property name="ElementShortName">ir[15:0]</obj_property>
+      <obj_property name="ObjectShortName">ir[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/processor/slc3/cpu/pc" type="array">
+      <obj_property name="ElementShortName">pc[15:0]</obj_property>
+      <obj_property name="ObjectShortName">pc[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/processor/slc3/cpu/mar" type="array">
+      <obj_property name="ElementShortName">mar[15:0]</obj_property>
+      <obj_property name="ObjectShortName">mar[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/processor/slc3/cpu/mdr" type="array">
+      <obj_property name="ElementShortName">mdr[15:0]</obj_property>
+      <obj_property name="ObjectShortName">mdr[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/processor/slc3/cpu/bus_signal" type="array">
+      <obj_property name="ElementShortName">bus_signal[15:0]</obj_property>
+      <obj_property name="ObjectShortName">bus_signal[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/run_i" type="logic">
+      <obj_property name="ElementShortName">run_i</obj_property>
+      <obj_property name="ObjectShortName">run_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/continue_i" type="logic">
+      <obj_property name="ElementShortName">continue_i</obj_property>
+      <obj_property name="ObjectShortName">continue_i</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/sw_i" type="array">
+      <obj_property name="ElementShortName">sw_i[15:0]</obj_property>
+      <obj_property name="ObjectShortName">sw_i[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/processor/slc3/cpu/cpu_control/state" type="array">
+      <obj_property name="ElementShortName">state[4:0]</obj_property>
+      <obj_property name="ObjectShortName">state[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/processor/slc3/cpu/cpu_control/state_nxt" type="array">
+      <obj_property name="ElementShortName">state_nxt[4:0]</obj_property>
+      <obj_property name="ObjectShortName">state_nxt[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/processor/slc3/cpu/regfile/regs" type="array">
+      <obj_property name="ElementShortName">regs[0:7][15:0]</obj_property>
+      <obj_property name="ObjectShortName">regs[0:7][15:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/processor/slc3/io_bridge/hex_display" type="array">
+      <obj_property name="ElementShortName">hex_display[15:0]</obj_property>
+      <obj_property name="ObjectShortName">hex_display[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/led_o" type="array">
+      <obj_property name="ElementShortName">led_o[15:0]</obj_property>
+      <obj_property name="ObjectShortName">led_o[15:0]</obj_property>
+   </wvobject>
+</wave_config>

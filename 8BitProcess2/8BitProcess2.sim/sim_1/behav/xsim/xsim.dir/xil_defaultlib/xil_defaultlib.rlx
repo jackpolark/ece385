@@ -1,0 +1,15 @@
+0.7
+2020.2
+Oct 14 2022
+05:20:55
+C:/Users/jacka/8BitProcess2/8BitProcess2.sim/sim_1/behav/xsim/glbl.v,1665704903,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/jacka/Downloads/design_source/Control.sv,1738892544,systemVerilog,C:/Users/jacka/Downloads/design_source/HexDriver.sv;C:/Users/jacka/Downloads/design_source/Processor.sv;C:/Users/jacka/Downloads/design_source/Reg_4.sv;C:/Users/jacka/Downloads/design_source/Register_unit.sv;C:/Users/jacka/Downloads/design_source/Router.sv;C:/Users/jacka/Downloads/design_source/Synchronizers.sv;C:/Users/jacka/Downloads/design_source/compute.sv;C:/Users/jacka/Downloads/sim_sources/testbench_8.sv,C:/Users/jacka/Downloads/design_source/HexDriver.sv,,$unit_Control_sv_1411822023;control,,uvm,,,,,,
+C:/Users/jacka/Downloads/design_source/HexDriver.sv,1738803976,systemVerilog,,C:/Users/jacka/Downloads/design_source/Processor.sv,,HexDriver,,uvm,,,,,,
+C:/Users/jacka/Downloads/design_source/Processor.sv,1738835424,systemVerilog,,C:/Users/jacka/Downloads/design_source/Reg_4.sv,,Processor,,uvm,,,,,,
+C:/Users/jacka/Downloads/design_source/Reg_4.sv,1738835498,systemVerilog,,C:/Users/jacka/Downloads/design_source/Register_unit.sv,,reg_8,,uvm,,,,,,
+C:/Users/jacka/Downloads/design_source/Register_unit.sv,1738835539,systemVerilog,,C:/Users/jacka/Downloads/design_source/Router.sv,,register_unit,,uvm,,,,,,
+C:/Users/jacka/Downloads/design_source/Router.sv,1738803976,systemVerilog,,C:/Users/jacka/Downloads/design_source/Synchronizers.sv,,router,,uvm,,,,,,
+C:/Users/jacka/Downloads/design_source/Synchronizers.sv,1738803976,systemVerilog,,C:/Users/jacka/Downloads/design_source/compute.sv,,sync_debounce,,uvm,,,,,,
+C:/Users/jacka/Downloads/design_source/compute.sv,1738803976,systemVerilog,,C:/Users/jacka/Downloads/sim_sources/testbench_8.sv,,compute,,uvm,,,,,,
+C:/Users/jacka/Downloads/sim_sources/testbench.sv,1738803976,systemVerilog,,,,testbench,,uvm,,,,,,
+C:/Users/jacka/Downloads/sim_sources/testbench_8.sv,1738803976,systemVerilog,,,,testbench8,,uvm,,,,,,

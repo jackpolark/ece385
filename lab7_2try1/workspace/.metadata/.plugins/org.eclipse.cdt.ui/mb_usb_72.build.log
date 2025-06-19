@@ -1,0 +1,7 @@
+01:26:11 **** Clean-only build of configuration Debug for project mb_usb_72 ****
+make clean 
+rm -rf  ./src/hdmi_text_controller.o ./src/helloworld.o ./src/platform.o  ./src/hdmi_text_controller.d ./src/helloworld.d ./src/platform.d  mb_usb_72.elf.size  mb_usb_72.elf
+' '
+
+01:26:12 Build Finished (took 353ms)
+

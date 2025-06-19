@@ -1,0 +1,23 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../lab5_week1.srcs/sources_1/new/bus_enable_mux.sv" \
+"../../../../lab5_week1.srcs/sources_1/imports/srcs/control.sv" \
+"../../../../lab5_week1.srcs/sources_1/imports/srcs/cpu.sv" \
+"../../../../lab5_week1.srcs/sources_1/imports/srcs/cpu_to_io.sv" \
+"../../../../lab5_week1.srcs/sources_1/imports/srcs/hex_driver.sv" \
+"../../../../lab5_week1.srcs/sources_1/imports/srcs/instantiate_ram.sv" \
+"../../../../lab5_week1.srcs/sources_1/imports/srcs/load_reg.sv" \
+"../../../../lab5_week1.srcs/sources_1/imports/srcs/memory.sv" \
+"../../../../lab5_week1.srcs/sources_1/new/mio_mux.sv" \
+"../../../../lab5_week1.srcs/sources_1/new/pc_mux.sv" \
+"../../../../lab5_week1.srcs/sources_1/imports/srcs/processor_top.sv" \
+"../../../../lab5_week1.srcs/sources_1/imports/srcs/slc3.sv" \
+"../../../../lab5_week1.srcs/sources_1/imports/srcs/sync.sv" \
+"../../../../lab5_week1.srcs/sources_1/imports/srcs/test_memory.sv" \
+"../../../../lab5_week1.srcs/sim_1/new/testbenchwk1.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../lab4retry.srcs/sources_1/new/Control.sv" \
+"../../../../lab4retry.srcs/sources_1/new/HexDriver.sv" \
+"../../../../lab4retry.srcs/sources_1/new/Reg_8.sv" \
+"../../../../lab4retry.srcs/sources_1/new/multiplier_toplevel.sv" \
+"../../../../lab4retry.srcs/sources_1/new/reg_x.sv" \
+"../../../../lab4retry.srcs/sources_1/new/ripple_adder.sv" \
+"../../../../lab4retry.srcs/sources_1/new/sync_debounce.sv" \
+"../../../../lab4retry.srcs/sim_1/new/testbench_mult.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

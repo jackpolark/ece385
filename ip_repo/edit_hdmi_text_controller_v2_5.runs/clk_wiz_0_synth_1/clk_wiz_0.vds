@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu Apr 10 15:20:58 2025
+# Process ID: 46084
+# Current directory: c:/Users/jacka/ip_repo/edit_hdmi_text_controller_v2_5.runs/clk_wiz_0_synth_1
+# Command line: vivado.exe -log clk_wiz_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clk_wiz_0.tcl
+# Log file: c:/Users/jacka/ip_repo/edit_hdmi_text_controller_v2_5.runs/clk_wiz_0_synth_1/clk_wiz_0.vds
+# Journal file: c:/Users/jacka/ip_repo/edit_hdmi_text_controller_v2_5.runs/clk_wiz_0_synth_1\vivado.jou
+# Running On: jasper, OS: Windows, CPU Frequency: 2995 MHz, CPU Physical cores: 14, Host memory: 68374 MB
+#-----------------------------------------------------------
+source clk_wiz_0.tcl -notrace
+create_project: Time (s): cpu = 00:00:06 ; elapsed = 00:00:09 . Memory (MB): peak = 371.891 ; gain = 76.723
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/jacka/ip_repo/hdmi_text_controller_2_5'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/jacka/ip_repo/hdmi_text_controller_2_0'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/jacka/ip_repo/hdmi_text_controller_1_5'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/jacka/ece385/ip_repo/hdmi_text_controller_1_0'.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/jacka/ece385/hdmi_tx_1.0'.
+WARNING: [IP_Flow 19-2207] Repository 'c:/Users/jacka/ip_repo/hdmi_text_controller_2_0' already exists; ignoring attempt to add it again.
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/jacka/ip_repo/hdmi_text_controller_2_0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2022.2/data/ip'.
+INFO: [IP_Flow 19-6924] IPCACHE: Running cache check for IP inst: clk_wiz_0
+INFO: [IP_Flow 19-6922] IPCACHE: Exporting cached entry 3a2acb12c5837824 to dir: c:/users/jacka/ip_repo/edit_hdmi_text_controller_v2_5.runs/clk_wiz_0_synth_1
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/users/jacka/ip_repo/edit_hdmi_text_controller_v2_5.cache/ip/2022.2/3/a/3a2acb12c5837824/clk_wiz_0.dcp to c:/users/jacka/ip_repo/edit_hdmi_text_controller_v2_5.runs/clk_wiz_0_synth_1/clk_wiz_0.dcp.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/users/jacka/ip_repo/edit_hdmi_text_controller_v2_5.cache/ip/2022.2/3/a/3a2acb12c5837824/clk_wiz_0_sim_netlist.v to c:/users/jacka/ip_repo/edit_hdmi_text_controller_v2_5.runs/clk_wiz_0_synth_1/clk_wiz_0_sim_netlist.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/users/jacka/ip_repo/edit_hdmi_text_controller_v2_5.cache/ip/2022.2/3/a/3a2acb12c5837824/clk_wiz_0_sim_netlist.vhdl to c:/users/jacka/ip_repo/edit_hdmi_text_controller_v2_5.runs/clk_wiz_0_synth_1/clk_wiz_0_sim_netlist.vhdl.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/users/jacka/ip_repo/edit_hdmi_text_controller_v2_5.cache/ip/2022.2/3/a/3a2acb12c5837824/clk_wiz_0_stub.v to c:/users/jacka/ip_repo/edit_hdmi_text_controller_v2_5.runs/clk_wiz_0_synth_1/clk_wiz_0_stub.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/users/jacka/ip_repo/edit_hdmi_text_controller_v2_5.cache/ip/2022.2/3/a/3a2acb12c5837824/clk_wiz_0_stub.vhdl to c:/users/jacka/ip_repo/edit_hdmi_text_controller_v2_5.runs/clk_wiz_0_synth_1/clk_wiz_0_stub.vhdl.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP clk_wiz_0, cache-ID = 3a2acb12c5837824.
+INFO: [Common 17-206] Exiting Vivado at Thu Apr 10 15:21:19 2025...
